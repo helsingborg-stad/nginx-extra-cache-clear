@@ -1,0 +1,12 @@
+{
+    "name": "helsingborg-stad/nginx-extra-cache-clear",
+    "type": "wordpress-muplugin", 
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Bernerman",
+            "email": "joel.bernerman@helsingborg.se"
+        }
+    ],
+    "require": {}
+}
